@@ -1,10 +1,12 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Encontre os bugs :bug:
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- Explicação do exercício: Baseado nas explicações sobre Gherking, escreva ao menos 7 cenários de testes utilizando a linguagem para este site https://www.saucedemo.com
+- Faça a entrega em formato PDF e suba para o repositório
+
+  
+   
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
