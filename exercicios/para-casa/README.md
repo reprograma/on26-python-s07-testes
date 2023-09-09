@@ -2,7 +2,7 @@
 
 ## Encontre os bugs :bug:
 
-- Explicação do exercício: Baseado nas explicações sobre Gherking, escreva ao menos 7 cenários de testes utilizando a linguagem para este site https://www.saucedemo.com
+- Explicação do exercício: Baseado nas explicações sobre testes, escreva ao menos 5 cenários de testes para este site https://www.saucedemo.com
 - Faça a entrega em formato PDF e suba para o repositório
 
   
