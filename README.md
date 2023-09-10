@@ -23,13 +23,13 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Testes de Softwares](#tema1)
-* [Introdução a Testes unitários e TDD](#tema2)
-* [Code Coverage x Test Coverage e Casos famosos](#tema3)
+* [Testes de Softwares]
+* [Introdução a Testes unitários e TDD]
+* [Code Coverage x Test Coverage e Casos famosos]
 
 ## Conteúdo
 ### Teste de Software 
-1. [O que são testes de software?](#topico1)
+1. [O que são testes de software?]
 2. [Benefícios dos testes](#topico2)
 3. [Ciclo de Vida do Teste](#topico2)
 4. [Piramide de Teste e seus tipos](#topico2)
