@@ -1,6 +1,6 @@
 # Exercício de Casa 🏠 
 
-## Exercício :bug:
+## Testar calculo da média :bug:
 - Explicação do exercício:
    1. Faça um arquivo contendo todos os cenários de teste mapeados por você, com descrição e resultado esperado (entrega em formato PDF)
    2. Faça um Arquivo python calculando a média de uma lista de números
