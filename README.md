@@ -47,9 +47,9 @@ O que veremos na aula de hoje?
 
 ***
 ### Exercícios 
-* [Exercicio para sala]([https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-sala])
-* [Exercicio para sala](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-casa)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercicio para sala](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-casa)
+
 
 ### Material da aula 
 
