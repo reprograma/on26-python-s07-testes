@@ -23,26 +23,26 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Testes de Softwares]
-* [Introdução a Testes unitários e TDD]
-* [Code Coverage x Test Coverage e Casos famosos]
+* Testes de Softwares
+* Introdução a Testes unitários e TDD
+* Code Coverage x Test Coverage e Casos famosos
 
 ## Conteúdo
 ### Teste de Software 
-1. [O que são testes de software?]
-2. [Benefícios dos testes](#topico2)
-3. [Ciclo de Vida do Teste](#topico2)
-4. [Piramide de Teste e seus tipos](#topico2)
+1. O que são testes de software?
+2. Benefícios dos testes
+3. Ciclo de Vida do Teste
+4. Piramide de Teste e seus tipos
 ### Introdução a testes unitários e TDD 
-1. [Introdução a Testes unitários](#topico3)
-   * [Anatomia de um testes unitário](#subtopico1)
-   * [Boas práticas](#subtopico2)
-   * [Ferramenta de Test](#subtopico2)
-2. [TDD](#topico3)
+1. Introdução a Testes unitários
+   * Anatomia de um testes unitário
+   * Boas práticas
+   * Ferramenta de Test
+2. TDD
    
 ### Code Coverage x Test Coverage e Casos Famosos
-1. [Code Coverage x Test Coverage](#topico4)
-2. [Casos Famosos](#topico4)
+1. Code Coverage x Test Coverage
+2. Casos Famosos
 
 
 ***
