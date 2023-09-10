@@ -1,5 +1,8 @@
 # Exercício de Sala 🏫  
 
+## Soma :heavy_plus_sign:
+- Explicação do exercício: Vamos desenvolver uma função que faça uma soma e utilizando TDD e testes unitários como base, vamos nos certificar de que a soma funciona em sua totalidade.
+
 ## Calculadora :calling:
 
 - Explicação do exercício: Desenvolva uma calculadora (utilizando a metodolodia TDD) que tenha as 4 operações básicas e teste ela usando testes unitários.
