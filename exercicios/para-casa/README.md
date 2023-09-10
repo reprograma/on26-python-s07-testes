@@ -1,12 +1,11 @@
 # Exercício de Casa 🏠 
 
-## Encontre os bugs :bug:
+## Exercício :bug:
+- Explicação do exercício:
+   1. Faça um arquivo contendo todos os cenários de teste mapeados por você, contendo descrição e resultado esperado (entrega em formato PDF)
+   2. Faça um Arquivo python calculando a média de uma lista de números
+   3. Faça um arquivo de teste, que contenha todos os testes mapeados por você (passo 1), para testar o arquivo python que você calculou as médias
 
-- Explicação do exercício: Baseado nas explicações sobre testes, escreva ao menos 5 cenários de testes para este site https://www.saucedemo.com
-- Faça a entrega em formato PDF e suba para o repositório
-
-  
-   
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
