@@ -51,14 +51,6 @@ O que veremos na aula de hoje?
 * [Exercicio para casa](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-casa)
 
 
-### Material da aula 
-
-### Links Úteis
-- [ENTENDENDO E APLICANDO O TEST DRIVEN DEVELOPMENT](https://blog.onedaytesting.com.br/test-driven-development/)
-- [A pirâmide de testes](https://medium.com/creditas-tech/a-pirâmide-de-testes-a0faec465cc2)
-- [Entenda de uma vez por todas o que são testes unitários, para que servem e como fazê-los](https://dayvsonlima.medium.com/entenda-de-uma-vez-por-todas-o-que-são-testes-unitários-para-que-servem-e-como-fazê-los-2a6f645bab3)
-
-
 <p align="center">
 Desenvolvido com :purple_heart:  
 </p>
