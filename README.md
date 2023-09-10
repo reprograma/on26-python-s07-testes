@@ -50,6 +50,10 @@ O que veremos na aula de hoje?
 * [Exercicio para sala](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/reprograma/on26-python-s07-testes/tree/main/exercicios/para-casa)
 
+## Links Úteis
+### Slides
+
+
 
 <p align="center">
 Desenvolvido com :purple_heart:  
