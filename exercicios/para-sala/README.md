@@ -1,10 +1,14 @@
 # Exercício de Sala 🏫  
 
-## Nome do Exercicio
+## Calculadora :calling:
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- Explicação do exercício: Desenvolva uma calculadora (utilizando a metodolodia TDD) que tenha as 4 operações básicas e teste ela usando testes unitários.
+- Operações básicas: 
+    - Soma 
+    - Subtração
+    - Multiplicação
+    - Divisão
+  
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
