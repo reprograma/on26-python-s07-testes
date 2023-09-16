@@ -1,3 +1,6 @@
+# Damaris Santos
+# Entrega 18/09/23
+
 def soma(a, b):
     return a + b
 

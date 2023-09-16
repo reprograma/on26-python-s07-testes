@@ -1,3 +1,6 @@
+# Damaris Santos
+# Entrega 18/09/23
+
 def multiplicacao(a, b):
     return a * b
 

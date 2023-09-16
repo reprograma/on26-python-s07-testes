@@ -1,5 +1,9 @@
+# Damaris Santos
+# Entrega 18/09/23
+
 def divisao(a, b):
-    return a / b
+    if a != b:
+      return a / b
 
 import unittest 
 
@@ -14,7 +18,7 @@ class TestDivisao(unittest.TestCase):
         self.assertEqual(divisao(-12, 3), -4)
 
     def test_div_zero(self):
-        self.assertEqual(divisao(0, 2), 0)
+        self.assertEqual(divisao(0, 0), None) #não se pode dividir por 0
 
 if __name__ == '__main__':
     unittest.main()
