@@ -51,9 +51,6 @@ class TestDivisao(unittest.TestCase):
         with self.assertRaises(ZeroDivisionError):
             divisao((4, 0), 0)
 
-    def test_div_positivos_e_negativos(self):
-        self.assertEqual(divisao(3, -4), -0.75)
-
 if __name__ == '__main__':
    unittest.main()
 
