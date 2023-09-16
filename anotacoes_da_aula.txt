@@ -1,0 +1,16 @@
+Aula 07 - Testes
+Prof. Jessica Lima
+
+E2E = teste de ponta a ponta/ teste de aceitação
+
+#DICA: teste com coisas simples e funcionais
+
+"assertEqual" é um método da documentação do unittest
+#IMPORTANTE: conhecer os métodos dentro da documentação
+
+TAREFA DE CASA
+    Fazer toda a calculadora com as outras operações:
+        Subtração, Multiplicação e divisão.
+
+Code Coverage: o quanto meu código tá coberto por teste
+Test Coverage: quanto do projeto inteiro tem de teste
