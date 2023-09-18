@@ -64,3 +64,22 @@ class TesteDiv(unittest.TestCase):
         
 if __name__ == "__main__":
     unittest.main()
+    
+    
+
+def multipl(a, b):
+    return a*b     
+    
+    class TesteMultipl(unittest.TestCase):
+        def teste_multipl_positivos(self):
+            self.assertEqual(multipl(8, 5), 40)
+    
+    def teste_multipl_negativos(self):
+        self.assertEqual(multipl(-5, 6), -30)
+    def teste_multipl_negativos(self):
+        self.assertEqual(multipl(-4, -3), 12)
+    
+    
+if __name__ == '__main__':
+    unittest.main()
+    
