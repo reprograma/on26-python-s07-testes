@@ -1,6 +1,7 @@
 def divisao(a, b):
-    return a / b
-
+    if b != 0:
+     return a / b
+ 
 import unittest
 
 class Testdivisao(unittest.TestCase):
@@ -13,9 +14,13 @@ class Testdivisao(unittest.TestCase):
     def test_divisao_zeros(self):
         self.assertAlmostEqual(divisao(0,8),0)
 
+    def test_divisao_zeros(self):
+        self.assertAlmostEqual(divisao(0,0),None)
+
     def  test_divisao_de_sinais_diferentes(self):
         self.assertAlmostEqual(divisao(-22,2), -11)   
 
 
 if __name__ == '__main__':
     unittest.main()
+    
