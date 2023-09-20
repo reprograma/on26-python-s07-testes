@@ -1,0 +1,20 @@
+Calculo de média
+
+# Lista vazia
+Lista sem números, esperado que retorne 0
+# Zero
+Lista somente com zeros, esperado que retorne 0
+# Positivos
+Lista somente com numeros positivos, esperado que retorne a média
+# Negativos
+Lista somente com numeros negativos, esperado que retorne a média
+# Mista com positivos e negativos
+Lista com numeros negativos e positivos, esperado que retorne a média positiva ou negativa
+# Lista float numero aproximado
+Lista com resultados que possam ultrapassar duas casas decimais, porém que seja aceito pelo teste apenas duas casas decimais (tive que mudar o código base 'calculo_media')
+# Divisão
+Lista que primeiro faça a divisão e posteriormente calcule a média
+# Multiplicação
+Lista que primeiro faça a multiplicação e posteriormente calcule a média
+# Potenciação
+Lista que primeiro faça o calculo da potenciação e posteriormente calcule a média
