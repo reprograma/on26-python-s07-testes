@@ -9,16 +9,6 @@ class TestCalcularMedia(unittest.TestCase):
     def test_media_lista_vazia(self):
         resultado = calcular_media([])
         self.assertEqual(resultado, 0)
-        
-        
-import unittest
-from calculo_media_kerlla import calcular_media
-
-class TestCalcularMedia(unittest.TestCase):
-    
-    def test_media_lista_vazia(self):
-        resultado = calcular_media([])
-        self.assertEqual(resultado, 0)
     
     def test_media_itens_iguais(self):
         resultado = calcular_media([5, 5, 5])
