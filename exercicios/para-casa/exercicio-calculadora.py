@@ -1,3 +1,5 @@
+#criando o código a ser testado:
+
 def soma(a, b):
     return a + b
 
@@ -14,11 +16,15 @@ def divisao(a, b):
         return a / b
 
 
+# importando o framework:
 import unittest
 
-
+# criando a classe de teste e importante a biblioteca de testes:
 class TestSoma(unittest.TestCase):
+
+    # criando o método de teste:
     def teste_soma_positivos(self):
+        # chamando a função a ser testada e informando o resultado esperado:
         self.assertEqual(soma(2, 3), 5)
 
     def teste_soma_negativos(self):
@@ -32,6 +38,7 @@ class TestSoma(unittest.TestCase):
         
 
 class TestSubtracao(unittest.TestCase):
+    
     def teste_subtracao_positivos(self):
         self.assertEqual(subtracao(8, 4), 4)
 
@@ -46,6 +53,7 @@ class TestSubtracao(unittest.TestCase):
 
 
 class TestMultiplicacao(unittest.TestCase):
+    
     def teste_multiplicacao_positivos(self):
         self.assertEqual(multiplicacao(3, 8), 24)
 
@@ -60,6 +68,7 @@ class TestMultiplicacao(unittest.TestCase):
 
 
 class TestDivisao(unittest.TestCase):
+    
     def teste_divisao_positivos(self):
         self.assertEqual(divisao(10, 2), 5)
 
@@ -73,5 +82,6 @@ class TestDivisao(unittest.TestCase):
         self.assertEqual(divisao(13, 2), 6.5)
 
 
+# chamada para executar o teste:
 if __name__ == '__main__':
     unittest.main()
