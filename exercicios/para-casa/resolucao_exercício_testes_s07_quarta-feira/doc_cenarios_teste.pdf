@@ -1,0 +1,9 @@
+Identificando cenários de teste 
+
+Contexto: Sistema de uma escola que calcula média de notas
+
+1. Quando todas as notas forem 0
+2. Quando a aluna não apresentar uma ou mais notas 
+3. Quando for aplicado ponto extra na média final 
+4. Quando for descontado ponto 
+
