@@ -1,0 +1,18 @@
+import unittest
+from calcula_media import calcular_media
+
+class TestCalculaMedia(unittest.TestCase):
+
+    def test_calcula_media_lista_vazia(self):
+        lista = []
+        resultado = calcular_media(lista)
+        self.assertEqual(resultado, 0)
+
+    def test_calcula_media_lista_simples(self):
+        lista = [1, 2, 3, 4, 5]
+        resultado = calcular_media(lista)
+        self.assertEqual(resultado, 3.0)  # A média de [1, 2, 3, 4, 5] é 3.0
+
+if __name__ == '__main__':
+    unittest.main()
+
