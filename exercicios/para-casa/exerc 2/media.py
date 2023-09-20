@@ -1,13 +1,13 @@
 #Teste - Média Aritmética
 
-def media_2 (x, y):
+def media (x, y):
 
     """media x e y
 
-    >>> media_2(10, 6.5)
-    8.25
+    >>> media(10, 15)
+    12.5
 
-    >>> media_2('15', 15)
+    >>> media('10', 15)
     Traceback (most recent call last):
     ...
     AssertionError:  "x" precisa ser int ou float
