@@ -1,4 +1,4 @@
-#Exercicio para casa Cris Pereira - prof Jéssica - semana 7
+#Exercicio para casa Cris Pereira - prof Letícia - semana 7
 import unittest
 
 def soma (a, b):
@@ -15,7 +15,7 @@ def multiplicar (a, b):
     return a * b
 
 class TestSoma(unittest.TestCase):
-    def test_soma_positivos(self): # é padrão utilizar o def test na nomenclatura
+    def test_soma_positivos(self):
         self.assertEqual(soma(2,3),5)
 
     def test_soma_negativos(self):
@@ -32,7 +32,7 @@ class TestDividir(unittest.TestCase):
     def test_dividir_positivos(self):
         self.assertEqual(dividir(10,2),5)
 
-    def test_dividir_negativos(self): 
+    def test_dividir_negativos(self):
         self.assertEqual(dividir(-15, -3), 5)
 
     def test_dividir_zerada(self):
