@@ -10,7 +10,6 @@ def  sub(a,b):
 def mult(a,b):
     return a * b
 
-
 def div(a,b):
     if b == 0:
         # Lidar com o caso de divisão por zero
