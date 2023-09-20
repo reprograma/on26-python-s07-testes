@@ -33,8 +33,8 @@ class TestCalcularmedia(unittest.TestCase):
     def test_media_divisao_por_zero(self):
         resultado = calcular_media([0, 0, 0])
         self.assertEqual (resultado, 0)
-
-
+        
+        
     def test_media_numero_negativo(self):
         resultado = calcular_media([-2, -3, -1])
         self.assertEqual (resultado, -2.0)
