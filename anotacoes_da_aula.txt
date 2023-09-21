@@ -1,0 +1,32 @@
+Aula 07 - Testes
+Prof. Jessica Lima
+
+E2E = teste de ponta a ponta/ teste de aceitação
+
+#DICA: teste com coisas simples e funcionais
+
+"assertEqual" é um método da documentação do unittest
+#IMPORTANTE: conhecer os métodos dentro da documentação
+
+TAREFA DE CASA
+    Fazer toda a calculadora com as outras operações:
+        Subtração, Multiplicação e divisão.
+
+Code Coverage: o quanto meu código tá coberto por teste
+Test Coverage: quanto do projeto inteiro tem de teste
+
+TESTES UNITÁRIOS:
+- Funcionalidades
+- casos de teste
+- resultados esperados
+
+O primeiro DEF é o código
+O segundo é a CLASSE
+    O DEF dentro da CLASS sempre inicia com TEST
+
+assertEqual = verifica se a é igual a b
+assertNotEqual = verifica se a NÃO é igual a b
+assertTrue = verifica se algo é verdadeiro
+assertFalse = verifica se a expressão é falsa
+assertIsNone = verifica se é nulo (vazio)
+assertIsNotNone = verifica se não está nulo (vazio)
